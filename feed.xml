@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>The Brooke Report: videos</title>
+<link href="https://thebrooke.report/"/>
+<link rel="self" href="https://thebrooke.report/feed.xml"/>
+<id>https://thebrooke.report/</id>
+<updated>2021-10-21T00:00:00Z</updated>
+<author><name>Brooke Tamsin Clevenger</name></author>
+<entry><title>Feeling Retro?</title><link href="https://thebrooke.report/videos/feeling-retro/"/><id>https://thebrooke.report/videos/feeling-retro/</id><updated>2021-10-21T00:00:00Z</updated><summary>The Brooke Report... Where the Past Meets the Future.</summary></entry>
+<entry><title>Do you like Money?</title><link href="https://thebrooke.report/videos/do-you-like-money/"/><id>https://thebrooke.report/videos/do-you-like-money/</id><updated>2021-10-19T00:00:00Z</updated><summary>The future of Money and Privacy are utterly connected. The Brooke Report.</summary></entry>
+<entry><title>Don&apos;t like Mondays?</title><link href="https://thebrooke.report/videos/don-t-like-mondays/"/><id>https://thebrooke.report/videos/don-t-like-mondays/</id><updated>2021-10-18T00:00:00Z</updated><summary>Monday October 18 2021 The Brooke Report</summary></entry>
+<entry><title>S01EP0 - The Intro</title><link href="https://thebrooke.report/videos/s01e00-the-intro/"/><id>https://thebrooke.report/videos/s01e00-the-intro/</id><updated>2021-10-15T00:00:00Z</updated><summary>Before there was a channel, there was a message. We didn&apos;t get it. That didn&apos;t stop us. More soon...</summary></entry>
+<entry><title>World Student Day - Promo</title><link href="https://thebrooke.report/videos/world-student-day-promo/"/><id>https://thebrooke.report/videos/world-student-day-promo/</id><updated>2021-10-15T00:00:00Z</updated><summary>Showing all of the students in the world that we really do care.</summary></entry>
+</feed>

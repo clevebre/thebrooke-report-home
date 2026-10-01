@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://thebrooke.report/</loc><lastmod>2026-10-01</lastmod></url><url><loc>https://thebrooke.report/constellation/</loc><lastmod>2026-10-01</lastmod></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://thebrooke.report/</loc></url>
+<url><loc>https://thebrooke.report/videos/</loc></url>
+<url><loc>https://thebrooke.report/videos/world-student-day-promo/</loc></url>
+<url><loc>https://thebrooke.report/videos/s01e00-the-intro/</loc></url>
+<url><loc>https://thebrooke.report/videos/don-t-like-mondays/</loc></url>
+<url><loc>https://thebrooke.report/videos/do-you-like-money/</loc></url>
+<url><loc>https://thebrooke.report/videos/feeling-retro/</loc></url>
+<url><loc>https://thebrooke.report/about/</loc></url>
+<url><loc>https://thebrooke.report/constellation/</loc></url>
+</urlset>
